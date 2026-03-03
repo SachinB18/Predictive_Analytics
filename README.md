@@ -36,4 +36,62 @@ The purpose of this repository is to systematically document practical implement
 
 ---
 
-## 📂 Repository Structure
+
+---
+
+## 📈 Topics Covered
+
+### 🔹 Data Preparation
+- Data Cleaning
+- Handling Missing Values
+- Outlier Detection
+- Feature Engineering
+- Data Encoding
+- Data Scaling and Normalization
+
+### 🔹 Exploratory Data Analysis
+- Statistical Summaries
+- Distribution Analysis
+- Correlation Heatmaps
+- Feature Relationship Analysis
+
+### 🔹 Machine Learning Algorithms
+- Logistic Regression
+- K-Nearest Neighbors (KNN)
+- Decision Trees
+- Random Forest
+- Support Vector Machines (SVM)
+
+### 🔹 Model Evaluation
+- Accuracy
+- Precision
+- Recall
+- F1-Score
+- Confusion Matrix
+- Cross Validation
+
+---
+
+## 🚀 Future Enhancements
+
+This repository will be continuously updated with:
+
+- Advanced Machine Learning Models
+- Hyperparameter Tuning
+- Ensemble Techniques
+- Deep Learning Implementations
+- Real-world Case Studies
+- Model Deployment Projects
+
+---
+
+## 📊 Academic Purpose
+
+All assignments are implemented as part of academic coursework and practical learning to strengthen understanding of Predictive Analytics concepts and their real-world applications.
+
+---
+
+## ⭐ Repository Goal
+
+To build a structured, well-documented, and continuously improving portfolio of Predictive Analytics projects.
+
